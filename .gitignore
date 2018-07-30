@@ -1,0 +1,5 @@
+/vendor
+config.yaml
+.htaccess
+/core/compilation_cache/*
+.idea/

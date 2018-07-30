@@ -1,0 +1,9 @@
+home:
+  pattern: /
+  controller: SiteController
+  action: index
+
+about:
+  pattern: /about
+  controller: SiteController
+  action: about
