@@ -3,3 +3,5 @@ config.yaml
 .htaccess
 /core/compilation_cache/*
 .idea/
+/node_modules
+public/build/*
